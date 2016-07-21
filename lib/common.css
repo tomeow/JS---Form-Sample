@@ -1,0 +1,15 @@
+
+
+.checkbox label,
+.radio label,
+.control-label {
+  font-weight: bold;
+}
+
+.container {
+  background-color: #BFE7F5
+}
+
+.input_area {
+  background-color: #BFE7F5
+}
